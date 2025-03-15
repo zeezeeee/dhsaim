@@ -7,7 +7,7 @@ local Mouse = LocalPlayer:GetMouse()
 
 local SilentAimEnabled = false
 local TargetPlayer = nil
-local FOV = 500
+local FOV = 300
 
 _G.SilentAimLoaded = true
 
